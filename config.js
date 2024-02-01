@@ -10,16 +10,16 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['5215541081250', '👑 Mystic - Creador 👑', true],
-  ['5215541081250', '💫 Mystic - Collaborator 1 💫', true],
-  ['5215541081250', '💫 Mystic - Collaborator 2 💫', true],
-  ['5215541081250', '💫 Mystic - Collaborator 3 💫', true],
-  ['5215541081250', '💫 Mystic - Collaborator 4 💫', true],
-  ['5215541081250', '💫 Mystic - Collaborator 5 💫', true],
-  ['5215541081250', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215541081250', '💫 Mystic - Rey Endymion 💫', false],
-  ['5215541081250', '💫 Mystic - Collaborator 8 💫', true],
-  ['5215541081250','💫 Mystic - Tester Fabri115💫', true],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado ', false],
+  ['5215541081250', ' Bot Tumbado ', true],
+  ['5215541081250',' Bot Tumbado ', true],
   ['5215541081250'],
   ['5215541081250'],
   ['5215541081250'],
@@ -39,12 +39,12 @@ global.owner = [
 global.suittag = ['5215541081250'];
 global.prems = ['5215541081250'];
 
-global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.packname = ' Bot Tumbado ';
+global.author = ' Bot Tumbado ';
+global.wm = ' Bot Tumbado ';
+global.titulowm = ' Bot Tumbado ';
+global.titulowm2 = ` Bot Tumbado `
+global.igfg = ' Bot Tumbado ';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
