@@ -22,12 +22,12 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The Mystic Bot';
+  const wm = 'Bot Tumbado';
   const info = ` _*< INFO - ESTADO />*_
 
- ▢ *Prop.:* Bruno Sobrino
- ▢ *WA:* +5219992095479
- ▢ *PayPal:* paypal.me/TheShadowBrokers133
+ ▢ *Prop.:* Shadow
+ ▢ *WA:* +5215541081250
+ ▢ *PayPal:* https://www.paypal.me/ShadowDark46
 
  ▢ *Ping:* ${rtime}
  ▢ *Uptime:* ${uptime}
@@ -57,7 +57,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
+    document: { url: `https://github.com/LxShadow/Tumbado` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -66,13 +66,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+        mediaUrl: "https://github.com/LxShadow/Tumbado",
         mediaType: 2,
         previewType: "pdf",
-        title: "The Mystic - Bot",
+        title: "Bot Tumbado",
         body: "Repositorio - GitHub",
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+        sourceUrl: "https://github.com/LxShadow/Tumbado",
       },
     },
     caption: info,
