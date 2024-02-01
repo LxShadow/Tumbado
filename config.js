@@ -10,16 +10,16 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250', ' Bot Tumbado ', false],
-  ['5215541081250', ' Bot Tumbado ', true],
-  ['5215541081250',' Bot Tumbado ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250', ' Bot Tumbado 🔥 ', false],
+  ['5215541081250', ' Bot Tumbado 🔥 ', true],
+  ['5215541081250',' Bot Tumbado 🔥 ', true],
   ['5215541081250'],
   ['5215541081250'],
   ['5215541081250'],
@@ -39,12 +39,12 @@ global.owner = [
 global.suittag = ['5215541081250'];
 global.prems = ['5215541081250'];
 
-global.packname = ' Bot Tumbado ';
-global.author = ' Bot Tumbado ';
-global.wm = ' Bot Tumbado ';
-global.titulowm = ' Bot Tumbado ';
-global.titulowm2 = ` Bot Tumbado `
-global.igfg = ' Bot Tumbado ';
+global.packname = ' Bot Tumbado By Shadow 🔥';
+global.author = ' Bot Tumbado By Shadow 🔥';
+global.wm = ' Bot Tumbado By Shadow 🔥';
+global.titulowm = ' Bot Tumbado By Shadow 🔥';
+global.titulowm2 = ` Bot Tumbado By Shadow 🔥`
+global.igfg = ' Bot Tumbado By Shadow🔥 ';
 global.wait = '*[ ❗️ ] Cargando..*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -65,9 +65,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n Bot Tumbado `;
-global.gt = ' Bot Tumbado ';
-global.mysticbot = ' Bot Tumbado ';
+global.wm2 = `${dia} ${fecha}\n Bot Tumbado By Shadow 🔥`;
+global.gt = ' Bot Tumbado By Shadow 🔥';
+global.mysticbot = ' Bot Tumbado By Shadow 🔥';
 global.md = 'https://github.com/LxShadow/Tumbado';
 global.mysticbot = 'https://github.com/LxShadow/Tumbado';
 global.waitt = '*[ ❗️ ] Cargando..*';
