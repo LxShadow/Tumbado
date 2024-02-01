@@ -47,12 +47,12 @@ global.titulowm2 = ` Bot Tumbado By Shadow 🔥`
 global.igfg = ' Bot Tumbado By Shadow🔥 ';
 global.wait = '*[ ❗️ ] Cargando..*';
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.png');
+global.imagen1 = fs.readFileSync('./BOTTUMBADO.jpg');
+global.imagen2 = fs.readFileSync('./src/BOTTUMBADO.jpg');
+global.imagen3 = fs.readFileSync('./src/TUMBADO.png');
+global.imagen4 = fs.readFileSync('./TUMBADABOT.png');
+global.imagen5 = fs.readFileSync('./src/BOTTUMBADO.jpg');
+global.imagen6 = fs.readFileSync('./TUMBADO.png');
 
 global.mods = [];
 
